@@ -1,22 +1,22 @@
 # Terminal-tutorial-babysteps
 
 
-`cd`                           – Change Directory
+`cd` – Change Directory
 
 
-ls                           – List
+`ls` – List
 
 
-touch                        - Create new file
+`touch` - Create new file
 
 
-mkdir                        - Create new directory / folder
+`mkdir` - Create new directory / folder
 
 
-nano                         - Opens the file in nano editor
+`nano` - Opens the file in nano editor
 
 
-mv                           - Removes a file
+`mv` - Removes a file
 
 
-mv [COMMAND] [COMMAND] -r    - Moves a file to new directory
+`mv [COMMAND] [COMMAND] -r` - Moves a file to new directory
