@@ -16,7 +16,7 @@
 `nano` Opens the file in nano editor
 
 
-`mv` Removes a file
+`rm` Removes a file
 
 
 `mv [COMMAND] [COMMAND] -r` Moves a file to new directory
