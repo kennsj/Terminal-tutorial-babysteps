@@ -1,6 +1,7 @@
 # Terminal-tutorial-babysteps
 
-cd                           – Change Directory
+
+`cd`                           – Change Directory
 
 
 ls                           – List
